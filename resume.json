@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Jeremy Cantu",
-    "label": "IT Consultant",
+    "label": "Software Developer",
     "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAMxAAAAJDVhY2UyNWU2LTMxYWUtNDIzYi1iYzUzLTM1YmQ2ODI1MGE2OA.jpg",
     "email": "jcantu521[at]gmail.com",
     "phone": "(956)286-8386",
@@ -25,7 +25,7 @@
       "endDate": "",
       "summary": "Microsoft-technology oriented software developer, responsible for client-site projects in varying domains, platforms and technologies.The profession involves the adaptation to said technologies at a quick pace, the adoption of a wide depth and breadth of technical knowledge, and the building of soft-skills such as business interaction and presentation. Currently involved in a Software Development Engineer in Test role at Dell, as well as leading the Summer 2015 graduating class as the \"Class President,\" elected by his fellow co-workers and peers.",
       "highlights": [
-        "SDET role at Dell, took part in automated testing-suite creation for customer support applications using Selenium Webdriver, among other .NET and C# technologies "
+        "SDET role at Dell, took part in automated testing-suite creation for customer support applications using Selenium Webdriver, Protractor.NET, and other .NET and C# technologies"
       ]
     }
   ],
@@ -62,7 +62,7 @@
       "title": "3rd Place at the first annual TAMUHack",
       "date": "",
       "awarder": "TAMUHack",
-      "summary": "Earned third-place in the \"overall\"​ category in Texas A&M's first hackathon with with a 3D, Oculus-Rift design oriented video game: http://challengepost.com/software/attack-on-oculus"
+      "summary": "Earned third-place in the \"overall\"​ category in Texas A&M's first hackathon with a 3D, Oculus-Rift design oriented video game. More information: http://devpost.com/software/attack-on-oculus"
     }
   ],
   "publications": [],
@@ -87,6 +87,14 @@
       ]
     },
     {
+      "name": "Front-End Frameworks",
+      "level": "Beginner",
+      "keywords": [
+        "AngularJS",
+        "React"
+      ]
+    },
+    {
       "name": "Security",
       "level": "Intermediate",
       "keywords": [
@@ -100,6 +108,7 @@
       "name": "General Software Development",
       "level": "Intermediate",
       "keywords": [
+        "Python",
         "Git",
         "GitHub",
         "Team Foundation Server"
