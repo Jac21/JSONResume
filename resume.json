@@ -3,36 +3,51 @@
     "name": "Jeremy Cantu",
     "label": "Software Developer",
     "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAMxAAAAJDVhY2UyNWU2LTMxYWUtNDIzYi1iYzUzLTM1YmQ2ODI1MGE2OA.jpg",
-    "email": "jcantu521[at]gmail.com",
+    "email": "jcantu521@gmail.com",
     "phone": "(956)286-8386",
-    "website": "https://github.com/Jac21",
-    "summary": "Jeremy hails from  the border city of Laredo Texas, attending Texas A&M University soon after graduating from the United High School Engineering and Technology Magnet. Jeremy earned his degree in Computer Science, with a focus in Systems Engineering, and has an avid interest in all things development, including .NET, web development, and InfoSec.",
+    "website": "https://jac21.github.io/",
+    "summary": "Jeremy hails from the border city of Laredo Texas, attending Texas A&M University soon after graduating from the United High School Engineering and Technology Magnet. Jeremy earned his degree in Computer Science, with a focus in Systems Engineering, and has an avid interest in all things development, including .NET, web development, and InfoSec.",
     "location": {
       "address": "11011 Domain Drive",
-      "postalCode": "TX 78758",
+      "postalCode": "78758",
       "city": "Austin",
       "countryCode": "US",
       "region": "Texas"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "Jac21",
+        "url": "https://github.com/Jac21"
+      }
+    ]
   },
   "work": [
     {
       "company": "Sogeti USA",
       "position": "IT Consultant",
       "website": "https://us.sogeti.com/",
-      "startDate": "6/08/2015",
-      "endDate": "",
-      "summary": "Microsoft-technology oriented software developer, responsible for client-site projects in varying domains, platforms and technologies.The profession involves the adaptation to said technologies at a quick pace, the adoption of a wide depth and breadth of technical knowledge, and the building of soft-skills such as business interaction and presentation. Currently involved in a Software Development Engineer in Test role at Dell, as well as leading the Summer 2015 graduating class as the \"Class President,\" elected by his fellow co-workers and peers.",
+      "startDate": "6/8/2015",
+      "endDate": "4/1/2016",
+      "summary": "Microsoft-technology oriented software developer, responsible for client-site projects in varying domains, platforms and technologies.The profession involves the adaptation to said technologies at a quick pace, the adoption of a wide depth and breadth of technical knowledge, and the building of soft-skills such as business interaction and presentation. Major accomplishments include a role as a Software Development Engineer in Test at Dell, as well as leading the Summer 2015 graduating class as the \"Class President,\" elected by his fellow co-workers and peers.",
       "highlights": [
-        "SDET role at Dell, took part in automated testing-suite creation for customer support applications using Selenium Webdriver, Protractor.NET, and other .NET and C# technologies"
+        "SDET role at Dell, took part in automated testing-suite creation for customer support applications using Selenium Webdriver and Protractor.NET, among other .NET and C# technologies"
       ]
+    },
+    {
+      "company": "Dell",
+      "position": "Software Developer",
+      "website": "http://www.dell.com/",
+      "startDate": "4/4/2016",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": []
     }
   ],
   "volunteer": [
     {
       "organization": "TAMUHack",
-      "position": "Judge",
+      "position": "Project Judge",
       "website": "http://tamuhack.com/",
       "startDate": "10/9/2015",
       "endDate": "10/10/2015",
@@ -60,27 +75,18 @@
   "awards": [
     {
       "title": "3rd Place at the first annual TAMUHack",
-      "date": "",
+      "date": "10/25/2014",
       "awarder": "TAMUHack",
-      "summary": "Earned third-place in the \"overall\"​ category in Texas A&M's first hackathon with a 3D, Oculus-Rift design oriented video game. More information: http://devpost.com/software/attack-on-oculus"
+      "summary": "Earned third-place in the \\\"overall\\\"​ category in Texas A&M's first hackathon with a 3D, Oculus-Rift design oriented video game. More information: http://devpost.com/software/attack-on-oculus"
     }
   ],
   "publications": [],
   "skills": [
     {
-      "name": ".NET",
-      "level": "Intermediate",
-      "keywords": [
-        "C#",
-        "ASP.NET MVC 5",
-        "Windows Presentation Foundation"
-      ]
-    },
-    {
       "name": "Web Development",
       "level": "Intermediate",
       "keywords": [
-        "HTML",
+        "HTML5",
         "CSS",
         "JavaScript",
         "Node.js"
@@ -105,13 +111,12 @@
       ]
     },
     {
-      "name": "General Software Development",
+      "name": ".NET",
       "level": "Intermediate",
       "keywords": [
-        "Python",
-        "Git",
-        "GitHub",
-        "Team Foundation Server"
+        "C#",
+        "ASP.NET MVC 5",
+        "Windows Presentation Foundation"
       ]
     }
   ],
