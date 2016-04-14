@@ -3,7 +3,7 @@ JSON Resume
 
 "JSON Resume is a community driven open source initiative to create JSON-based standard for resumes." Site: https://jsonresume.org/
 
-Current Version = 1.5
+Current Version = 1.6
 -------------
 ------------------
 

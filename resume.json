@@ -83,6 +83,15 @@
   "publications": [],
   "skills": [
     {
+      "name": ".NET",
+      "level": "Intermediate",
+      "keywords": [
+        "C#",
+        "ASP.NET MVC 5",
+        "WPF"
+      ]
+    },
+    {
       "name": "Web Development",
       "level": "Intermediate",
       "keywords": [
@@ -111,12 +120,11 @@
       ]
     },
     {
-      "name": ".NET",
+      "name:": "Testing",
       "level": "Intermediate",
       "keywords": [
-        "C#",
-        "ASP.NET MVC 5",
-        "Windows Presentation Foundation"
+        "Selenium",
+        "Protractor"
       ]
     }
   ],
