@@ -6,7 +6,7 @@
     "email": "jcantu521@gmail.com",
     "phone": "(956)286-8386",
     "website": "https://jac21.github.io/",
-    "summary": "Jeremy hails from the border city of Laredo Texas, attending Texas A&M University soon after graduating from the United High School Engineering and Technology Magnet. Jeremy earned his degree in Computer Science, with a focus in Systems Engineering, and has an avid interest in all things development, including .NET, web development, and InfoSec.",
+    "summary": "Jeremy hails from the border city of Laredo Texas, attending Texas A&M University soon after graduating from the United High School Engineering and Technology Magnet. Jeremy earned his degree in Computer Science, with a focus in Systems Engineering, and has an avid interest in .NET technologies and web development as whole.",
     "location": {
       "address": "11011 Domain Drive",
       "postalCode": "78758",
@@ -36,11 +36,22 @@
     },
     {
       "company": "Dell",
-      "position": "Software Developer",
+      "position": "Software Developer Senior Analyst",
       "website": "http://www.dell.com/",
       "startDate": "4/4/2016",
+      "endDate": "1/2/2017",
+      "summary": "Software Development Engineer in Test, as part of the Dell Consumer Services \"Responsive Platform\" team. Responsible for automated test framework and suite creation for the whole of the application, utilizing C#, Selenium WebDriver, and SpecFlow, as well as monitoring and analysis using Splunk and Adobe Analytics.",
+      "highlights": [
+        "Highlights include my role as SDET lead, involving my close work with the team's Product Owner and Technical Project Manager. In addition, was involved in a subsequently patented voice interface application for a Dell.com \"hack day\" event"
+      ]
+    },
+    {
+      "company": "Advanced Solutions International",
+      "position": "Software Developer",
+      "website": "http://www.advsol.com",
+      "startDate": "1/3/2017",
       "endDate": "Present",
-      "summary": "",
+      "summary": "Full-stack, .NET focused software developer in an Agile environment.",
       "highlights": []
     }
   ],
@@ -83,12 +94,21 @@
   "publications": [],
   "skills": [
     {
-      "name": ".NET",
+      "name": "Security (Reverse Engineering)",
       "level": "Intermediate",
       "keywords": [
-        "C#",
-        "ASP.NET MVC 5",
-        "WPF"
+        "OllyDbg",
+        "IDA Pro"
+      ]
+    },
+    {
+      "name": "Security (Penetration Testing)",
+      "level": "Intermediate",
+      "keywords": [
+        "Netsparker",
+        "Arachni",
+        "SQLMap",
+        "Burpsuite"
       ]
     },
     {
@@ -96,35 +116,18 @@
       "level": "Intermediate",
       "keywords": [
         "HTML5",
-        "CSS",
+        "CSS3",
         "JavaScript",
         "Node.js"
       ]
     },
     {
-      "name": "Front-End Frameworks",
-      "level": "Beginner",
-      "keywords": [
-        "AngularJS",
-        "React"
-      ]
-    },
-    {
-      "name": "Security",
+      "name:": "Automated Testing",
       "level": "Intermediate",
       "keywords": [
-        "OllyDbg",
-        "IDA Pro",
-        "Nmap",
-        "Wireshark"
-      ]
-    },
-    {
-      "name:": "Testing",
-      "level": "Intermediate",
-      "keywords": [
-        "Selenium",
-        "Protractor"
+        "Selenium WebDriver",
+        "Protractor",
+        "SpecFlow"
       ]
     }
   ],
